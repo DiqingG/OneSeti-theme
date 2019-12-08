@@ -1,0 +1,22 @@
+{
+    "name": "oneseti",
+    "displayName": "OneSeti",
+    "description": "",
+    "version": "0.0.1",
+    "publisher":"diqing-008",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OneSeti",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneSeti-color-theme.json"
+            }
+        ]
+    }
+}
