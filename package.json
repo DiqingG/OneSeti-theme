@@ -1,26 +1,31 @@
 {
-    "name": "oneseti",
-    "displayName": "OneSeti",
-    "description": "",
-    "version": "0.0.1",
-    "publisher":"diqing-008",
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DiqingG/OneSeti-theme"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "OneSeti",
-                "uiTheme": "vs-dark",
-                "path": "./themes/OneSeti-color-theme.json"
-            }
-        ]
-    }
+	"name": "oneseti",
+	"displayName": "OneSeti",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "diqing-008",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DiqingG/OneSeti-theme"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "OneSeti",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneSeti-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "46cab67d-492f-4f8f-ac26-9dbf37e4c139",
+		"publisherDisplayName": "diqing-008",
+		"publisherId": "46f519d9-8192-4505-9efa-d5a8b92da405"
+	}
 }
